@@ -6,9 +6,9 @@ A simple JavaScript web app that fetches and displays a random dog image using t
 
 ## 🚀 Live Demo
 
-[🔗 View Live on GitHub Pages](https://JasmineKaurVirdi.github.io/random-dog-image-generator/)  
+[🔗 View Live on GitHub Pages]( https://jasminekaurvirdi.github.io/random-dog-image-generator/)  
 
----
+--- 
 
 ## 🐕 Features
 
